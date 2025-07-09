@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.so
+
+venv/
+.env/
+.venv/
+
+.ipynb_checkpoints/
+
+
+*.png
+!graphs/*.png
+
+*.DS_Store
+*.ipynb~  # mahdolliset varmuuskopiot
+
+.vscode/
+
+*.log
+*.tmp
